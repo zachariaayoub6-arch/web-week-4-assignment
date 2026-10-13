@@ -1,0 +1,1 @@
+I build spend wise application to monitor my daily expense. index.html file helps display the content while I used style.css to decorate my application
